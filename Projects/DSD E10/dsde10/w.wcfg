@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/prj/dsd/dsde10/test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="test" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="/test/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/start" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/const" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">const[7:0]</obj_property>
+      <obj_property name="ObjectShortName">const[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/instr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">instr[7:0]</obj_property>
+      <obj_property name="ObjectShortName">instr[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/pc" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pc[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pc[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/n1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">n1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">n1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/n2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">n2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">n2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/n3" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">n3[7:0]</obj_property>
+      <obj_property name="ObjectShortName">n3[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/stack" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">stack[0:7,7:0]</obj_property>
+      <obj_property name="ObjectShortName">stack[0:7,7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/mem" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">mem[0:255,7:0]</obj_property>
+      <obj_property name="ObjectShortName">mem[0:255,7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/pointer" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pointer[2:0]</obj_property>
+      <obj_property name="ObjectShortName">pointer[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/sf" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sf</obj_property>
+      <obj_property name="ObjectShortName">sf</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/zf" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">zf</obj_property>
+      <obj_property name="ObjectShortName">zf</obj_property>
+   </wvobject>
+</wave_config>

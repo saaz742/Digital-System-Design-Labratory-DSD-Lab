@@ -1,0 +1,41 @@
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.xst" -ofn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "serialcmpr.ngc" serialcmpr.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o serialcmpr_map.ncd serialcmpr.ngd serialcmpr.pcf 
+par -w -intstyle ise -ol high -mt off serialcmpr_map.ncd serialcmpr.ncd serialcmpr.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml serialcmpr.twx serialcmpr.ncd -o serialcmpr.twr serialcmpr.pcf 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.xst" -ofn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "serialcmpr.ngc" serialcmpr.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o serialcmpr_map.ncd serialcmpr.ngd serialcmpr.pcf 
+par -w -intstyle ise -ol high -mt off serialcmpr_map.ncd serialcmpr.ncd serialcmpr.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml serialcmpr.twx serialcmpr.ncd -o serialcmpr.twr serialcmpr.pcf 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.xst" -ofn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.xst" -ofn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "serialcmpr.ngc" serialcmpr.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o serialcmpr_map.ncd serialcmpr.ngd serialcmpr.pcf 
+par -w -intstyle ise -ol high -mt off serialcmpr_map.ncd serialcmpr.ncd serialcmpr.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml serialcmpr.twx serialcmpr.ncd -o serialcmpr.twr serialcmpr.pcf 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.xst" -ofn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.xst" -ofn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "serialcmpr.ngc" serialcmpr.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o serialcmpr_map.ncd serialcmpr.ngd serialcmpr.pcf 
+par -w -intstyle ise -ol high -mt off serialcmpr_map.ncd serialcmpr.ncd serialcmpr.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml serialcmpr.twx serialcmpr.ncd -o serialcmpr.twr serialcmpr.pcf 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.xst" -ofn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.xst" -ofn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.xst" -ofn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.xst" -ofn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.xst" -ofn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "serialcmpr.ngc" serialcmpr.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o serialcmpr_map.ncd serialcmpr.ngd serialcmpr.pcf 
+par -w -intstyle ise -ol high -mt off serialcmpr_map.ncd serialcmpr.ncd serialcmpr.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml serialcmpr.twx serialcmpr.ncd -o serialcmpr.twr serialcmpr.pcf 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.xst" -ofn "D:/prj/dsd/New folder/dsde3-2/serialcmpr.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "serialcmpr.ngc" serialcmpr.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o serialcmpr_map.ncd serialcmpr.ngd serialcmpr.pcf 
+par -w -intstyle ise -ol high -mt off serialcmpr_map.ncd serialcmpr.ncd serialcmpr.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml serialcmpr.twx serialcmpr.ncd -o serialcmpr.twr serialcmpr.pcf 
+xst -intstyle ise -ifn "C:/Users/sa/Desktop/dsde3-2/serialcmpr.xst" -ofn "C:/Users/sa/Desktop/dsde3-2/serialcmpr.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 serialcmpr.ngc serialcmpr.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o serialcmpr_map.ncd serialcmpr.ngd serialcmpr.pcf 
+par -w -intstyle ise -ol high -mt off serialcmpr_map.ncd serialcmpr.ncd serialcmpr.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml serialcmpr.twx serialcmpr.ncd -o serialcmpr.twr serialcmpr.pcf 

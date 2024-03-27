@@ -1,0 +1,3 @@
+verilog work "updown.v"
+verilog work "counter.v"
+verilog work "main.v"

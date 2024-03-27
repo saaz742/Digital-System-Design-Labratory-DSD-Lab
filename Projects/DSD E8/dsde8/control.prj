@@ -1,0 +1,4 @@
+verilog work "add-sub.v"
+verilog work "mem.v"
+verilog work "alu.v"
+verilog work "control.v"

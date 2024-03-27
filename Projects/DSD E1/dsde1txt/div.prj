@@ -1,0 +1,7 @@
+verilog work "fulladder.v"
+verilog work "fulladder5.v"
+verilog work "div3equal.v"
+verilog work "div11equal.v"
+verilog work "div3.v"
+verilog work "div11.v"
+verilog work "div.v"

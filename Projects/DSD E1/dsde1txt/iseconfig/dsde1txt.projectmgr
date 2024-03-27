@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="dsde1txt" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/div D:|prj|dsd|New folder|dsde1txt|div.v/d1 - div3/f0 - fulladder5</ClosedNode>
+         <ClosedNode>/div D:|prj|dsd|New folder|dsde1txt|div.v/d1 - div3/f1 - fulladder5</ClosedNode>
+         <ClosedNode>/div D:|prj|dsd|New folder|dsde1txt|div.v/d1 - div3/f2 - fulladder5</ClosedNode>
+         <ClosedNode>/div D:|prj|dsd|New folder|dsde1txt|div.v/d2 - div11/f0 - fulladder5</ClosedNode>
+         <ClosedNode>/div D:|prj|dsd|New folder|dsde1txt|div.v/d2 - div11/f1 - fulladder5</ClosedNode>
+         <ClosedNode>/div D:|prj|dsd|New folder|dsde1txt|div.v/d2 - div11/fn1 - fulladder5</ClosedNode>
+         <ClosedNode>/div D:|prj|dsd|New folder|dsde1txt|div.v/d2 - div11/fn2 - fulladder5</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>f0 - fulladder5 (D:/prj/dsd/New folder/dsde1txt/fulladder5.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000116000000020000000000000000000000000200000064ffffffff000000810000000300000002000001160000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>f0 - fulladder5 (D:/prj/dsd/New folder/dsde1txt/fulladder5.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000002e3000000040101000100000000000000000000000064ffffffff0000008100000000000000040000003d00000001000000000000002100000001000000000000005d0000000100000000000002280000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>div.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Design Utilities</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Design Utilities</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/div11test D:|prj|dsd|New folder|dsde1txt|div11test.v/uut - div11</ClosedNode>
+         <ClosedNode>/div11test D:|prj|dsd|New folder|dsde1txt|div11test.v/uut - div11/f0 - fulladder5</ClosedNode>
+         <ClosedNode>/div11test D:|prj|dsd|New folder|dsde1txt|div11test.v/uut - div11/f1 - fulladder5</ClosedNode>
+         <ClosedNode>/div11test D:|prj|dsd|New folder|dsde1txt|div11test.v/uut - div11/fn1 - fulladder5</ClosedNode>
+         <ClosedNode>/div11test D:|prj|dsd|New folder|dsde1txt|div11test.v/uut - div11/fn2 - fulladder5</ClosedNode>
+         <ClosedNode>/div3 D:|prj|dsd|New folder|dsde1txt|div3.v</ClosedNode>
+         <ClosedNode>/div3test D:|prj|dsd|New folder|dsde1txt|div3test.v/uut - div3</ClosedNode>
+         <ClosedNode>/div3test D:|prj|dsd|New folder|dsde1txt|div3test.v/uut - div3/f0 - fulladder5</ClosedNode>
+         <ClosedNode>/div3test D:|prj|dsd|New folder|dsde1txt|div3test.v/uut - div3/f1 - fulladder5</ClosedNode>
+         <ClosedNode>/div3test D:|prj|dsd|New folder|dsde1txt|div3test.v/uut - div3/f2 - fulladder5</ClosedNode>
+         <ClosedNode>/fultest D:|prj|dsd|New folder|dsde1txt|fultest.v</ClosedNode>
+         <ClosedNode>/fultest D:|prj|dsd|New folder|dsde1txt|fultest.v/uut - fulladder5</ClosedNode>
+         <ClosedNode>/test D:|prj|dsd|New folder|dsde1txt|test.v/uut - div</ClosedNode>
+         <ClosedNode>/test D:|prj|dsd|New folder|dsde1txt|test.v/uut - div/d1 - div3</ClosedNode>
+         <ClosedNode>/test D:|prj|dsd|New folder|dsde1txt|test.v/uut - div/d1 - div3/f1 - fulladder5</ClosedNode>
+         <ClosedNode>/test D:|prj|dsd|New folder|dsde1txt|test.v/uut - div/d1 - div3/f2 - fulladder5</ClosedNode>
+         <ClosedNode>/test D:|prj|dsd|New folder|dsde1txt|test.v/uut - div/d2 - div11</ClosedNode>
+         <ClosedNode>/test D:|prj|dsd|New folder|dsde1txt|test.v/uut - div/d2 - div11/f0 - fulladder5</ClosedNode>
+         <ClosedNode>/test D:|prj|dsd|New folder|dsde1txt|test.v/uut - div/d2 - div11/f1 - fulladder5</ClosedNode>
+         <ClosedNode>/test D:|prj|dsd|New folder|dsde1txt|test.v/uut - div/d2 - div11/fn1 - fulladder5</ClosedNode>
+         <ClosedNode>/test D:|prj|dsd|New folder|dsde1txt|test.v/uut - div/d2 - div11/fn2 - fulladder5</ClosedNode>
+         <ClosedNode>/testdiv D:|prj|dsd|New folder|dsde1txt|testdiv.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>test (D:/prj/dsd/New folder/dsde1txt/test.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000000ef000000020000000000000000000000000200000064ffffffff000000810000000300000002000000ef0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>test (D:/prj/dsd/New folder/dsde1txt/test.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>ISim Simulator</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ISim Simulator</CurrentItem>
+   </ItemView>
+</Project>

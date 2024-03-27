@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/DSDE3/cmpr4.xst" -ofn "D:/prj/dsd/New folder/DSDE3/cmpr4.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/DSDE3/cmpr4.xst" -ofn "D:/prj/dsd/New folder/DSDE3/cmpr4.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "cmpr4.ngc" cmpr4.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o cmpr4_map.ncd cmpr4.ngd cmpr4.pcf 
+par -w -intstyle ise -ol high -mt off cmpr4_map.ncd cmpr4.ncd cmpr4.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml cmpr4.twx cmpr4.ncd -o cmpr4.twr cmpr4.pcf 

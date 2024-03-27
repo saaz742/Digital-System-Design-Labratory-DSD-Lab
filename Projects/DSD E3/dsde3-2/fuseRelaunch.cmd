@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/sa/Desktop/New folder (5)/dsde3-2/testserialcmpr_isim_beh.exe" -prj "C:/Users/sa/Desktop/New folder (5)/dsde3-2/testserialcmpr_beh.prj" "work.testserialcmpr" "work.glbl" 

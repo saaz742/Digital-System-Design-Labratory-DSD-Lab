@@ -1,0 +1,28 @@
+Command line:
+   cmpr_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  8782
+
+Wed Apr 14 14:10:30 2021
+
+
+ Elaboration Time: 0.78125 sec
+
+ Current Memory Usage: 5163.9 Meg
+
+ Total Signals          : 18
+ Total Nets             : 18
+ Total Signal Drivers   : 8
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 9
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 98
+
+ Total Simulation Time: 0.796875 sec
+
+ Current Memory Usage: 5163.9 Meg
+
+Wed Apr 14 14:10:33 2021
+

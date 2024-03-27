@@ -1,0 +1,14 @@
+ISim log file
+Running: C:\Users\sa\Desktop\dsde8\dsde8-98170668\dsde8\controltest_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/sa/Desktop/dsde8/dsde8-98170668/dsde8/controltest_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Users/sa/Desktop/dsde8/dsde8-98170668/dsde8/control.v" Line 13.  For instance uut/rm2/, width 5 of formal port addr is not equal to width 6 of actual variable addrs1. 
+WARNING: File "C:/Users/sa/Desktop/dsde8/dsde8-98170668/dsde8/control.v" Line 13.  For instance uut/rm2/, width 5 of formal port addr2 is not equal to width 6 of actual variable addrs2. 
+WARNING:  For instance aluuu/ad/, width 1 of formal port addsub is not equal to width 32 of actual constant.
+WARNING:  For instance aluuu/su/, width 1 of formal port addsub is not equal to width 32 of actual constant.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

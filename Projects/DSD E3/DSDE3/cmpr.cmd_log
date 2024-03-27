@@ -1,0 +1,15 @@
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/DSDE3/cmpr.xst" -ofn "D:/prj/dsd/New folder/DSDE3/cmpr.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "cmpr.ngc" cmpr.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o cmpr_map.ncd cmpr.ngd cmpr.pcf 
+par -w -intstyle ise -ol high -mt off cmpr_map.ncd cmpr.ncd cmpr.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml cmpr.twx cmpr.ncd -o cmpr.twr cmpr.pcf 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/DSDE3/cmpr.xst" -ofn "D:/prj/dsd/New folder/DSDE3/cmpr.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "cmpr.ngc" cmpr.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o cmpr_map.ncd cmpr.ngd cmpr.pcf 
+par -w -intstyle ise -ol high -mt off cmpr_map.ncd cmpr.ncd cmpr.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml cmpr.twx cmpr.ncd -o cmpr.twr cmpr.pcf 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/DSDE3/cmpr.xst" -ofn "D:/prj/dsd/New folder/DSDE3/cmpr.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "cmpr.ngc" cmpr.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o cmpr_map.ncd cmpr.ngd cmpr.pcf 
+par -w -intstyle ise -ol high -mt off cmpr_map.ncd cmpr.ncd cmpr.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml cmpr.twx cmpr.ncd -o cmpr.twr cmpr.pcf 

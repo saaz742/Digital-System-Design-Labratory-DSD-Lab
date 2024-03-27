@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/prj/dsd/New folder/dsde2-1/maintest_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="maintest" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/maintest/open" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">open</obj_property>
+      <obj_property name="ObjectShortName">open</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maintest/close" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">close</obj_property>
+      <obj_property name="ObjectShortName">close</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maintest/ent" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ent</obj_property>
+      <obj_property name="ObjectShortName">ent</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maintest/ext" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ext</obj_property>
+      <obj_property name="ObjectShortName">ext</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maintest/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maintest/uut/n" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">n[3:0]</obj_property>
+      <obj_property name="ObjectShortName">n[3:0]</obj_property>
+   </wvobject>
+</wave_config>

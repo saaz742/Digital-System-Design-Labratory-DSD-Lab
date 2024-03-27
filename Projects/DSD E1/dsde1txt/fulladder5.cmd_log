@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj dsde1txt -o "D:/prj/dsd/New folder/dsde1txt/fulladder5.tfi" -lib work "D:/prj/dsd/New folder/dsde1txt//fulladder5.v" -module fulladder5 -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

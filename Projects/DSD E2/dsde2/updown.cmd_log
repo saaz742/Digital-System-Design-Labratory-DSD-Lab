@@ -1,0 +1,18 @@
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde2/updown.xst" -ofn "D:/prj/dsd/New folder/dsde2/updown.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "updown.ngc" updown.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o updown_map.ncd updown.ngd updown.pcf 
+par -w -intstyle ise -ol high -mt off updown_map.ncd updown.ncd updown.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml updown.twx updown.ncd -o updown.twr updown.pcf 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde2/updown.xst" -ofn "D:/prj/dsd/New folder/dsde2/updown.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde2/updown.xst" -ofn "D:/prj/dsd/New folder/dsde2/updown.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde2/updown.xst" -ofn "D:/prj/dsd/New folder/dsde2/updown.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "updown.ngc" updown.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o updown_map.ncd updown.ngd updown.pcf 
+par -w -intstyle ise -ol high -mt off updown_map.ncd updown.ncd updown.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml updown.twx updown.ncd -o updown.twr updown.pcf 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde2/updown.xst" -ofn "D:/prj/dsd/New folder/dsde2/updown.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "updown.ngc" updown.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o updown_map.ncd updown.ngd updown.pcf 
+par -w -intstyle ise -ol high -mt off updown_map.ncd updown.ncd updown.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml updown.twx updown.ncd -o updown.twr updown.pcf 
+xst -intstyle ise -ifn "D:/prj/dsd/New folder/dsde2/updown.xst" -ofn "D:/prj/dsd/New folder/dsde2/updown.syr" 

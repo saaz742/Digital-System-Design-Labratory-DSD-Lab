@@ -1,0 +1,75 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise -v 3 -s 3
+-n 3 -fastpaths -xml cmpr4.twx cmpr4.ncd -o cmpr4.twr cmpr4.pcf
+
+Design file:              cmpr4.ncd
+Physical constraint file: cmpr4.pcf
+Device,package,speed:     xc7a100t,csg324,C,-3 (PRODUCTION 1.10 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+a<0>           |aequalb        |    5.287|
+a<0>           |agreaterb      |    6.047|
+a<0>           |alessb         |    6.828|
+a<1>           |aequalb        |    5.142|
+a<1>           |agreaterb      |    6.120|
+a<1>           |alessb         |    6.901|
+a<2>           |aequalb        |    6.203|
+a<2>           |agreaterb      |    5.488|
+a<2>           |alessb         |    6.269|
+a<3>           |aequalb        |    5.946|
+a<3>           |agreaterb      |    5.702|
+a<3>           |alessb         |    6.483|
+b<0>           |aequalb        |    5.128|
+b<0>           |agreaterb      |    6.197|
+b<0>           |alessb         |    6.978|
+b<1>           |aequalb        |    5.472|
+b<1>           |agreaterb      |    6.034|
+b<1>           |alessb         |    6.815|
+b<2>           |aequalb        |    5.833|
+b<2>           |agreaterb      |    5.456|
+b<2>           |alessb         |    6.237|
+b<3>           |aequalb        |    5.548|
+b<3>           |agreaterb      |    5.312|
+b<3>           |alessb         |    6.093|
+---------------+---------------+---------+
+
+
+Analysis completed Tue Apr 13 20:30:43 2021 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 5003 MB
+
+
+

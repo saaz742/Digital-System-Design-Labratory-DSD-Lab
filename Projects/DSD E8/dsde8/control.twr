@@ -1,0 +1,115 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise -v 3 -s 3
+-n 3 -fastpaths -xml control.twx control.ncd -o control.twr control.pcf
+
+Design file:              control.ncd
+Physical constraint file: control.pcf
+Device,package,speed:     xc7a100t,csg324,C,-3 (PRODUCTION 1.10 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+alucont<0>     |result<0>      |    5.382|
+alucont<0>     |result<1>      |    5.631|
+alucont<0>     |result<2>      |    5.716|
+alucont<0>     |result<3>      |    5.838|
+alucont<0>     |result<4>      |    5.953|
+alucont<0>     |result<5>      |    6.064|
+alucont<0>     |result<6>      |    6.177|
+alucont<0>     |result<7>      |    6.273|
+alucont<0>     |result<8>      |    6.376|
+alucont<0>     |result<9>      |    6.496|
+alucont<0>     |result<10>     |    6.600|
+alucont<0>     |result<11>     |    6.718|
+alucont<0>     |result<12>     |    6.826|
+alucont<0>     |result<13>     |    6.959|
+alucont<0>     |result<14>     |    7.071|
+alucont<0>     |result<15>     |    7.184|
+alucont<0>     |result<16>     |    7.299|
+alucont<0>     |result<17>     |    7.391|
+alucont<0>     |result<18>     |    7.507|
+alucont<0>     |result<19>     |    7.595|
+alucont<0>     |result<20>     |    7.718|
+alucont<0>     |result<21>     |    7.822|
+alucont<0>     |result<22>     |    7.933|
+alucont<0>     |result<23>     |    8.057|
+alucont<0>     |result<24>     |    8.157|
+alucont<0>     |result<25>     |    8.282|
+alucont<0>     |result<26>     |    8.387|
+alucont<0>     |result<27>     |    8.504|
+alucont<0>     |result<28>     |    8.623|
+alucont<0>     |result<29>     |    8.737|
+alucont<0>     |result<30>     |    8.848|
+alucont<0>     |result<31>     |    8.965|
+alucont<1>     |result<0>      |    5.387|
+alucont<1>     |result<1>      |    5.636|
+alucont<1>     |result<2>      |    5.721|
+alucont<1>     |result<3>      |    5.843|
+alucont<1>     |result<4>      |    5.958|
+alucont<1>     |result<5>      |    6.069|
+alucont<1>     |result<6>      |    6.182|
+alucont<1>     |result<7>      |    6.278|
+alucont<1>     |result<8>      |    6.381|
+alucont<1>     |result<9>      |    6.501|
+alucont<1>     |result<10>     |    6.605|
+alucont<1>     |result<11>     |    6.723|
+alucont<1>     |result<12>     |    6.831|
+alucont<1>     |result<13>     |    6.964|
+alucont<1>     |result<14>     |    7.076|
+alucont<1>     |result<15>     |    7.189|
+alucont<1>     |result<16>     |    7.304|
+alucont<1>     |result<17>     |    7.396|
+alucont<1>     |result<18>     |    7.512|
+alucont<1>     |result<19>     |    7.600|
+alucont<1>     |result<20>     |    7.723|
+alucont<1>     |result<21>     |    7.827|
+alucont<1>     |result<22>     |    7.938|
+alucont<1>     |result<23>     |    8.062|
+alucont<1>     |result<24>     |    8.162|
+alucont<1>     |result<25>     |    8.287|
+alucont<1>     |result<26>     |    8.392|
+alucont<1>     |result<27>     |    8.509|
+alucont<1>     |result<28>     |    8.628|
+alucont<1>     |result<29>     |    8.742|
+alucont<1>     |result<30>     |    8.853|
+alucont<1>     |result<31>     |    8.970|
+---------------+---------------+---------+
+
+
+Analysis completed Wed May 26 11:01:48 2021 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 5003 MB
+
+
+

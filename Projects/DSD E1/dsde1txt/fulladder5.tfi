@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+fulladder5 instance_name (
+    .a4(a4), 
+    .a(a), 
+    .b(b), 
+    .b4(b4), 
+    .cin(cin), 
+    .sum(sum), 
+    .carry(carry)
+    );
+
+

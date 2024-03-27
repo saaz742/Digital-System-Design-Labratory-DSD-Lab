@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/prj/dsd/dsde8/controltest_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="controltest" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/controltest/result" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">result[31:0]</obj_property>
+      <obj_property name="ObjectShortName">result[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/controltest/addr1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addr1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">addr1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/controltest/addr2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addr2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">addr2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/controltest/wraddr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">wraddr[7:0]</obj_property>
+      <obj_property name="ObjectShortName">wraddr[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/controltest/alucont" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">alucont[1:0]</obj_property>
+      <obj_property name="ObjectShortName">alucont[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/controltest/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/controltest/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/controltest/uut/state" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/controltest/uut/re" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">re</obj_property>
+      <obj_property name="ObjectShortName">re</obj_property>
+   </wvobject>
+   <wvobject fp_name="/controltest/uut/res1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">res1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">res1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/controltest/uut/res2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">res2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">res2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/controltest/uut/prv" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">prv[31:0]</obj_property>
+      <obj_property name="ObjectShortName">prv[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/controltest/uut/result" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">result[31:0]</obj_property>
+      <obj_property name="ObjectShortName">result[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/controltest/uut/res3" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">res3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">res3[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/controltest/uut/addrs2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addrs2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">addrs2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/controltest/uut/addrs1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addrs1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">addrs1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/controltest/uut/wr" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">wr</obj_property>
+      <obj_property name="ObjectShortName">wr</obj_property>
+   </wvobject>
+</wave_config>

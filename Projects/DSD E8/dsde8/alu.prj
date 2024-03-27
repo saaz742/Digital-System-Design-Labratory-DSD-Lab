@@ -1,0 +1,3 @@
+verilog work "mult.v"
+verilog work "add-sub.v"
+verilog work "alu.v"

@@ -1,0 +1,31 @@
+xst -intstyle ise -ifn "D:/prj/dsd/dsde9/memory.xst" -ofn "D:/prj/dsd/dsde9/memory.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/dsde9/memory.xst" -ofn "D:/prj/dsd/dsde9/memory.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/dsde9/memory.xst" -ofn "D:/prj/dsd/dsde9/memory.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/dsde9/memory.xst" -ofn "D:/prj/dsd/dsde9/memory.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/dsde9/memory.xst" -ofn "D:/prj/dsd/dsde9/memory.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/dsde9/memory.xst" -ofn "D:/prj/dsd/dsde9/memory.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/dsde9/memory.xst" -ofn "D:/prj/dsd/dsde9/memory.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/dsde9/memory.xst" -ofn "D:/prj/dsd/dsde9/memory.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/dsde9/memory.xst" -ofn "D:/prj/dsd/dsde9/memory.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/dsde9/memory.xst" -ofn "D:/prj/dsd/dsde9/memory.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 memory.ngc memory.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o memory_map.ncd memory.ngd memory.pcf 
+par -w -intstyle ise -ol high -mt off memory_map.ncd memory.ncd memory.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml memory.twx memory.ncd -o memory.twr memory.pcf 
+xst -intstyle ise -ifn "D:/prj/dsd/dsde9/memory.xst" -ofn "D:/prj/dsd/dsde9/memory.syr" 
+xst -intstyle ise -ifn "D:/prj/dsd/dsde9/memory.xst" -ofn "D:/prj/dsd/dsde9/memory.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 memory.ngc memory.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o memory_map.ncd memory.ngd memory.pcf 
+par -w -intstyle ise -ol high -mt off memory_map.ncd memory.ncd memory.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml memory.twx memory.ncd -o memory.twr memory.pcf 
+xst -intstyle ise -ifn "C:/Users/sa/Desktop/dsde9/dsde9-98170668/dsde9/memory.xst" -ofn "C:/Users/sa/Desktop/dsde9/dsde9-98170668/dsde9/memory.syr" 
+xst -intstyle ise -ifn "C:/Users/sa/Desktop/dsde9/dsde9-98170668/dsde9/memory.xst" -ofn "C:/Users/sa/Desktop/dsde9/dsde9-98170668/dsde9/memory.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 memory.ngc memory.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o memory_map.ncd memory.ngd memory.pcf 
+par -w -intstyle ise -ol high -mt off memory_map.ncd memory.ncd memory.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml memory.twx memory.ncd -o memory.twr memory.pcf 
+xst -intstyle ise -ifn "C:/Users/sa/Desktop/dsde9/dsde9-98170668/dsde9/memory.xst" -ofn "C:/Users/sa/Desktop/dsde9/dsde9-98170668/dsde9/memory.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 memory.ngc memory.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o memory_map.ncd memory.ngd memory.pcf 
+par -w -intstyle ise -ol high -mt off memory_map.ncd memory.ncd memory.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml memory.twx memory.ncd -o memory.twr memory.pcf 
